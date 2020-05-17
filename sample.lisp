@@ -1,0 +1,7 @@
+(setf *image-struct* (("image0" 10 10 10 10 BLUE)
+("History"0 0 0 0  GREEN)
+("export"15 15 15 15  GREEN)
+("-"30 30 30 30  GREEN)
+("Chrome"45 45 45 45  GREEN)
+("ウェブストア"60 60 60 60  GREEN)
+))

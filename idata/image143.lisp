@@ -1,0 +1,8 @@
+(setf *image-struct* (("image143" 10 10 10 10 BLUE)
+("HTML"0 0 0 0  GREEN)
+("サムネイル"15 15 15 15  GREEN)
+("画像"30 30 30 30  GREEN)
+("-"45 45 45 45  GREEN)
+("Google"60 60 60 60  GREEN)
+("検索"75 75 75 75  GREEN)
+))

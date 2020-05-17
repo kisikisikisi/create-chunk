@@ -1,0 +1,5 @@
+(setf *image-struct* (("image34" 10 10 10 10 BLUE)
+("Google"0 0 0 0  GREEN)
+("データ"15 15 15 15  GREEN)
+("エクスポート"30 30 30 30  GREEN)
+))

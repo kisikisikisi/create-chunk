@@ -1,0 +1,7 @@
+(setf *image-struct* (("image18" 10 10 10 10 BLUE)
+("高度"0 0 0 0  GREEN)
+("な"15 15 15 15  GREEN)
+("保護"30 30 30 30  GREEN)
+("機能"45 45 45 45  GREEN)
+("プログラム"60 60 60 60  GREEN)
+))

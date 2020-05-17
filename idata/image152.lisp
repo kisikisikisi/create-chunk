@@ -1,0 +1,8 @@
+(setf *image-struct* (("image152" 10 10 10 10 BLUE)
+("googlechrome"0 0 0 0  GREEN)
+("拡張"15 15 15 15  GREEN)
+("機能"30 30 30 30  GREEN)
+("-"45 45 45 45  GREEN)
+("Google"60 60 60 60  GREEN)
+("検索"75 75 75 75  GREEN)
+))

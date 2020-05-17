@@ -1,0 +1,5 @@
+(setf *image-struct* (("image37" 10 10 10 10 BLUE)
+("エクスポート"0 0 0 0  GREEN)
+("の"15 15 15 15  GREEN)
+("管理"30 30 30 30  GREEN)
+))
