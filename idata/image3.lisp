@@ -1,4 +1,4 @@
-(setf *image-struct* (("image3" 10 10 10 10 BLUE)
+(setf *image-struct* (("872" 10 10 10 10 BLUE)
 ("json"0 0 0 0  GREEN)
 ("-"15 15 15 15  GREEN)
 ("xls"30 30 30 30  GREEN)

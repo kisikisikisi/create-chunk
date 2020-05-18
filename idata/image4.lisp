@@ -1,4 +1,4 @@
-(setf *image-struct* (("image4" 10 10 10 10 BLUE)
+(setf *image-struct* (("871" 10 10 10 10 BLUE)
 ("Export"0 0 0 0  GREEN)
 ("History"15 15 15 15  GREEN)
 ("/"30 30 30 30  GREEN)

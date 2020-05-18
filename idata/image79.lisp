@@ -1,4 +1,4 @@
-(setf *image-struct* (("image79" 10 10 10 10 BLUE)
+(setf *image-struct* (("710" 10 10 10 10 BLUE)
 ("JavaScript"0 0 0 0  GREEN)
 ("向け"15 15 15 15  GREEN)
 ("ブラウザスクリーンショットライブラリ"30 30 30 30  GREEN)

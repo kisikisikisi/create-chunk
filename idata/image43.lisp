@@ -1,4 +1,4 @@
-(setf *image-struct* (("image43" 10 10 10 10 BLUE)
+(setf *image-struct* (("830" 10 10 10 10 BLUE)
 ("takeout"0 0 0 0  GREEN)
 ("-"15 15 15 15  GREEN)
 ("20200420"30 30 30 30  GREEN)

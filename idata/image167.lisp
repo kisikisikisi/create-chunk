@@ -1,4 +1,4 @@
-(setf *image-struct* (("image167" 10 10 10 10 BLUE)
+(setf *image-struct* (("680" 10 10 10 10 BLUE)
 ("Load"0 0 0 0  GREEN)
 ("unpacked"15 15 15 15  GREEN)
 ("-"30 30 30 30  GREEN)

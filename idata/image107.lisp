@@ -1,4 +1,4 @@
-(setf *image-struct* (("image107" 10 10 10 10 BLUE)
+(setf *image-struct* (("750" 10 10 10 10 BLUE)
 ("web"0 0 0 0  GREEN)
 ("サイト"15 15 15 15  GREEN)
 ("作り方"30 30 30 30  GREEN)

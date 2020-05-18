@@ -1,4 +1,4 @@
-(setf *image-struct* (("image62" 10 10 10 10 BLUE)
+(setf *image-struct* (("796" 10 10 10 10 BLUE)
 ("Qiita"0 0 0 0  GREEN)
 ("週間"15 15 15 15  GREEN)
 ("ストック"30 30 30 30  GREEN)

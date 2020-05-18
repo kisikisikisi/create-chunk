@@ -1,4 +1,4 @@
-(setf *image-struct* (("image63" 10 10 10 10 BLUE)
+(setf *image-struct* (("794" 10 10 10 10 BLUE)
 ("fdas"0 0 0 0  GREEN)
 ("-"15 15 15 15  GREEN)
 ("Google"30 30 30 30  GREEN)

@@ -1,4 +1,4 @@
-(setf *image-struct* (("image142" 10 10 10 10 BLUE)
+(setf *image-struct* (("717" 10 10 10 10 BLUE)
 ("サムネイル"0 0 0 0  GREEN)
 ("が"15 15 15 15  GREEN)
 ("右側"30 30 30 30  GREEN)

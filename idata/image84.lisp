@@ -1,4 +1,4 @@
-(setf *image-struct* (("image84" 10 10 10 10 BLUE)
+(setf *image-struct* (("776" 10 10 10 10 BLUE)
 ("ERROR"0 0 0 0  GREEN)
 ("Error"15 15 15 15  GREEN)
 (":"30 30 30 30  GREEN)

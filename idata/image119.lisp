@@ -1,4 +1,4 @@
-(setf *image-struct* (("image119" 10 10 10 10 BLUE)
+(setf *image-struct* (("736" 10 10 10 10 BLUE)
 ("element"0 0 0 0  GREEN)
 ("."15 15 15 15  GREEN)
 ("insertAdjacentHTML"30 30 30 30  GREEN)

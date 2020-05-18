@@ -1,4 +1,4 @@
-(setf *image-struct* (("image126" 10 10 10 10 BLUE)
+(setf *image-struct* (("735" 10 10 10 10 BLUE)
 ("insertadjacenthtml"0 0 0 0  GREEN)
 ("-"15 15 15 15  GREEN)
 ("Google"30 30 30 30  GREEN)

@@ -1,4 +1,4 @@
-(setf *image-struct* (("image121" 10 10 10 10 BLUE)
+(setf *image-struct* (("741" 10 10 10 10 BLUE)
 ("Python"0 0 0 0  GREEN)
 ("　"15 15 15 15  GREEN)
 ("しゃく"30 30 30 30  GREEN)

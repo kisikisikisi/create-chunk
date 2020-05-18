@@ -1,4 +1,4 @@
-(setf *image-struct* (("image99" 10 10 10 10 BLUE)
+(setf *image-struct* (("760" 10 10 10 10 BLUE)
 ("無料"0 0 0 0  GREEN)
 ("画像"15 15 15 15  GREEN)
 ("を"30 30 30 30  GREEN)

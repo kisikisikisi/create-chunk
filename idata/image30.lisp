@@ -1,4 +1,4 @@
-(setf *image-struct* (("image30" 10 10 10 10 BLUE)
+(setf *image-struct* (("846" 10 10 10 10 BLUE)
 ("Google"0 0 0 0  GREEN)
 ("アカウント"15 15 15 15  GREEN)
 ("データ"30 30 30 30  GREEN)
