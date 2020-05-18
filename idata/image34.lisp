@@ -1,5 +1,5 @@
 (setf *image-struct* (("807" 10 10 10 10 BLUE)
-("Google"0 0 0 0  GREEN)
-("データ"15 15 15 15  GREEN)
-("エクスポート"30 30 30 30  GREEN)
+("Google" 5 5 5 5  GREEN)
+("データ" 20 20 20 20  GREEN)
+("エクスポート" 35 35 35 35  GREEN)
 ))
