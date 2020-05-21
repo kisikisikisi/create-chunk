@@ -1,4 +1,4 @@
-(setf *image-struct* (("720" 10 10 10 10 BLUE)
+(setf *image-struct* '(("720" 10 10 10 10 BLUE)
 ("リンク" 5 5 5 5  GREEN)
 ("先" 20 20 20 20  GREEN)
 ("の" 35 35 35 35  GREEN)

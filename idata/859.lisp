@@ -1,4 +1,4 @@
-(setf *image-struct* (("859" 10 10 10 10 BLUE)
+(setf *image-struct* '(("859" 10 10 10 10 BLUE)
 ("高度" 5 5 5 5  GREEN)
 ("な" 20 20 20 20  GREEN)
 ("保護" 35 35 35 35  GREEN)

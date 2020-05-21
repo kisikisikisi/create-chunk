@@ -1,4 +1,4 @@
-(setf *image-struct* (("738" 10 10 10 10 BLUE)
+(setf *image-struct* '(("738" 10 10 10 10 BLUE)
 ("圧縮" 5 5 5 5  GREEN)
 ("英語" 20 20 20 20  GREEN)
 ("-" 35 35 35 35  GREEN)

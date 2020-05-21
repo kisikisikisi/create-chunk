@@ -1,4 +1,4 @@
-(setf *image-struct* (("739" 10 10 10 10 BLUE)
+(setf *image-struct* '(("739" 10 10 10 10 BLUE)
 ("Python" 5 5 5 5  GREEN)
 ("　" 20 20 20 20  GREEN)
 ("ランレングス" 35 35 35 35  GREEN)

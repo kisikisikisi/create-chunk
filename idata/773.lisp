@@ -1,4 +1,4 @@
-(setf *image-struct* (("773" 10 10 10 10 BLUE)
+(setf *image-struct* '(("773" 10 10 10 10 BLUE)
 ("isTrusted" 5 5 5 5  GREEN)
 (":" 20 20 20 20  GREEN)
 ("true" 35 35 35 35  GREEN)

@@ -1,4 +1,4 @@
-(setf *image-struct* (("866" 10 10 10 10 BLUE)
+(setf *image-struct* '(("866" 10 10 10 10 BLUE)
 ("Web" 5 5 5 5  GREEN)
 ("ブラウザ" 20 20 20 20  GREEN)
 ("の" 35 35 35 35  GREEN)

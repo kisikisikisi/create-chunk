@@ -1,4 +1,4 @@
-(setf *image-struct* (("769" 10 10 10 10 BLUE)
+(setf *image-struct* '(("769" 10 10 10 10 BLUE)
 ("認知" 5 5 5 5  GREEN)
 ("科" 20 20 20 20  GREEN)
 ("学会" 35 35 35 35  GREEN)

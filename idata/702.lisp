@@ -1,4 +1,4 @@
-(setf *image-struct* (("702" 10 10 10 10 BLUE)
+(setf *image-struct* '(("702" 10 10 10 10 BLUE)
 ("て" 5 5 5 5  GREEN)
 ("ｓ" 20 20 20 20  GREEN)
 ("ｔ" 35 35 35 35  GREEN)

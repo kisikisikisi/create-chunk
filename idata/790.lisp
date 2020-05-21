@@ -1,4 +1,4 @@
-(setf *image-struct* (("790" 10 10 10 10 BLUE)
+(setf *image-struct* '(("790" 10 10 10 10 BLUE)
 ("楽天" 5 5 5 5  GREEN)
 ("証券" 20 20 20 20  GREEN)
 ("|" 35 35 35 35  GREEN)

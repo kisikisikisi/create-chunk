@@ -1,4 +1,4 @@
-(setf *image-struct* (("713" 10 10 10 10 BLUE)
+(setf *image-struct* '(("713" 10 10 10 10 BLUE)
 ("HTML" 5 5 5 5  GREEN)
 ("サムネイル" 20 20 20 20  GREEN)
 ("画像" 35 35 35 35  GREEN)

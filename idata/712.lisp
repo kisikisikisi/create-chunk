@@ -1,4 +1,4 @@
-(setf *image-struct* (("712" 10 10 10 10 BLUE)
+(setf *image-struct* '(("712" 10 10 10 10 BLUE)
 ("スクリーン" 5 5 5 5  GREEN)
 ("ショット" 20 20 20 20  GREEN)
 ("を" 35 35 35 35  GREEN)

@@ -1,4 +1,4 @@
-(setf *image-struct* (("770" 10 10 10 10 BLUE)
+(setf *image-struct* '(("770" 10 10 10 10 BLUE)
 ("JCSS" 5 5 5 5  GREEN)
 ("2019" 20 20 20 20  GREEN)
 ("_" 35 35 35 35  GREEN)

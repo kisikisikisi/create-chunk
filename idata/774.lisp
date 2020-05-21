@@ -1,4 +1,4 @@
-(setf *image-struct* (("774" 10 10 10 10 BLUE)
+(setf *image-struct* '(("774" 10 10 10 10 BLUE)
 ("uncaught" 5 5 5 5  GREEN)
 ("(" 20 20 20 20  GREEN)
 ("in" 35 35 35 35  GREEN)

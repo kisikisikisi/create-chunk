@@ -1,4 +1,4 @@
-(setf *image-struct* (("819" 10 10 10 10 BLUE)
+(setf *image-struct* '(("819" 10 10 10 10 BLUE)
 ("エクスポート" 5 5 5 5  GREEN)
 ("の" 20 20 20 20  GREEN)
 ("管理" 35 35 35 35  GREEN)

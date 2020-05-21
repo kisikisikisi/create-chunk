@@ -1,4 +1,4 @@
-(setf *image-struct* (("806" 10 10 10 10 BLUE)
+(setf *image-struct* '(("806" 10 10 10 10 BLUE)
 ("データ" 5 5 5 5  GREEN)
 ("の" 20 20 20 20  GREEN)
 ("ダウンロード" 35 35 35 35  GREEN)

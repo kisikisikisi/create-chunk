@@ -1,4 +1,4 @@
-(setf *image-struct* (("751" 10 10 10 10 BLUE)
+(setf *image-struct* '(("751" 10 10 10 10 BLUE)
 ("【" 5 5 5 5  GREEN)
 ("2020" 20 20 20 20  GREEN)
 ("年" 35 35 35 35  GREEN)

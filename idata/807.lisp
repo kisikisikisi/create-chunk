@@ -1,4 +1,4 @@
-(setf *image-struct* (("807" 10 10 10 10 BLUE)
+(setf *image-struct* '(("807" 10 10 10 10 BLUE)
 ("Google" 5 5 5 5  GREEN)
 ("データ" 20 20 20 20  GREEN)
 ("エクスポート" 35 35 35 35  GREEN)

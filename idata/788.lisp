@@ -1,4 +1,4 @@
-(setf *image-struct* (("788" 10 10 10 10 BLUE)
+(setf *image-struct* '(("788" 10 10 10 10 BLUE)
 ("英和" 5 5 5 5  GREEN)
 ("辞典" 20 20 20 20  GREEN)
 ("・" 35 35 35 35  GREEN)

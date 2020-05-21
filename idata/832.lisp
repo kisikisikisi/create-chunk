@@ -1,4 +1,4 @@
-(setf *image-struct* (("832" 10 10 10 10 BLUE)
+(setf *image-struct* '(("832" 10 10 10 10 BLUE)
 ("テイクアウト" 5 5 5 5  GREEN)
 ("Chrome" 20 20 20 20  GREEN)
 ("　" 35 35 35 35  GREEN)
