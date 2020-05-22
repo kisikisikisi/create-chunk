@@ -1,5 +1,5 @@
 (setf *image-struct* '(("807" 10 10 10 10 BLUE)
-("Google" 5 5 5 5  GREEN)
-("データ" 20 20 20 20  GREEN)
-("エクスポート" 35 35 35 35  GREEN)
+("b'Google'" 5 5 5 5  GREEN)
+("b'\xe3\x83\x87\xe3\x83\xbc\xe3\x82\xbf'" 20 20 20 20  GREEN)
+("b'\xe3\x82\xa8\xe3\x82\xaf\xe3\x82\xb9\xe3\x83\x9d\xe3\x83\xbc\xe3\x83\x88'" 35 35 35 35  GREEN)
 ))
