@@ -1537,8 +1537,6 @@
 (l-746 isa label-data text "746")
 (746-HTML isa inc-label idata 746 label l-HTML)
 (l-HTML isa label-data text "HTML")
-(746-, isa inc-label idata 746 label l-,)
-(l-, isa label-data text ",")
 (746-CSS isa inc-label idata 746 label l-CSS)
 (l-CSS isa label-data text "CSS")
 (746-\xe3\x82\xab\xe3\x83\xa9\xe3\x83\xbc isa inc-label idata 746 label l-\xe3\x82\xab\xe3\x83\xa9\xe3\x83\xbc)
