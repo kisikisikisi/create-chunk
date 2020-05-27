@@ -1,0 +1,7 @@
+(setf *image-struct* '(("873" 10 10 10 10 BLUE)
+("History" 5 5 5 5 GREEN)
+("export" 20 20 20 20 GREEN)
+("-" 35 35 35 35 GREEN)
+("Chrome" 50 50 50 50 GREEN)
+("\xe3\x82\xa6\xe3\x82\xa7\xe3\x83\x96\xe3\x82\xb9\xe3\x83\x88\xe3\x82\xa2" 65 65 65 65 GREEN)
+))
