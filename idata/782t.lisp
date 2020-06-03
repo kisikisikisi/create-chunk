@@ -17,6 +17,5 @@
 ("xe3x83x87xe3x83x99xe3x83xadxe3x83x83xe3x83x91xe3x83xbc" 5 5 230 400 GREEN)
 ("xe7x94xa8" 5 5 245 400 GREEN)
 ("xefxbcx89" 5 5 260 400 GREEN)
-("|" 5 5 275 400 GREEN)
-("xe3x83x84xe3x82xafxe3x83xbcxe3x83xabxe3x83x95xe3x82xa9xe3x83xbcxe3x83xa9xe3x83xa0" 5 5 290 400 GREEN)
+("xe3x83x84xe3x82xafxe3x83xbcxe3x83xabxe3x83x95xe3x82xa9xe3x83xbcxe3x83xa9xe3x83xa0" 5 5 275 400 GREEN)
 ))

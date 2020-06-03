@@ -4,6 +4,5 @@
 ("-" 5 5 35 400 GREEN)
 ("Web" 5 5 50 400 GREEN)
 ("API" 5 5 65 400 GREEN)
-("|" 5 5 80 400 GREEN)
-("MDN" 5 5 95 400 GREEN)
+("MDN" 5 5 80 400 GREEN)
 ))

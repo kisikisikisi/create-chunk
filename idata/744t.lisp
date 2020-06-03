@@ -22,6 +22,5 @@
 ("xe8x89xb2" 5 5 305 400 GREEN)
 ("/" 5 5 320 400 GREEN)
 ("xe5xa4x89xe3x81x88xe3x82x8b" 5 5 335 400 GREEN)
-("|" 5 5 350 400 GREEN)
-("Aprico" 5 5 365 400 GREEN)
+("Aprico" 5 5 350 400 GREEN)
 ))
