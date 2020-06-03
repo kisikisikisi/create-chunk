@@ -1,0 +1,6 @@
+(setf *image-struct* '(("927t" 10 10 10 10 BLUE)
+("nashidos" 5 5 5 400 GREEN)
+("xe2x80x99" 5 5 20 400 GREEN)
+("s" 5 5 35 400 GREEN)
+("diary" 5 5 50 400 GREEN)
+))

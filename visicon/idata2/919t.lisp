@@ -1,0 +1,5 @@
+(setf *image-struct* '(("919t" 10 10 10 10 BLUE)
+("Screen" 5 5 5 400 GREEN)
+("Capture" 5 5 20 400 GREEN)
+("Options" 5 5 35 400 GREEN)
+))
